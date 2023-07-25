@@ -3,7 +3,7 @@ import "./AboutMe.css";
 import {Link} from "react-router-dom";
 import react from "../assets/react.png";
 import java from "../assets/java.png";
-import js from "../assets/js.jpg";
+import js from "../assets/js.png";
 
 function AboutMe() {
   return (
